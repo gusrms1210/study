@@ -1,1 +1,2 @@
 # study
+remote repository of git_tutorial
